@@ -1,9 +1,9 @@
 <svg id="visual" viewBox="0 0 960 540" width="960" height="540" xmlns="http://www.w3.org/2000/svg" version="1.1">
   <defs>
     <linearGradient id="lavender-pink-gradient" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#E6E6FA" /> <!-- Lavender -->
-      <stop offset="50%" stop-color="#FFC0CB" /> <!-- Pink -->
-      <stop offset="100%" stop-color="#FFFFFF" /> <!-- White -->
+      <stop offset="0%" stop-color="#6A5ACD" /> <!-- Dark Slate Blue for high contrast -->
+      <stop offset="50%" stop-color="#FF69B4" /> <!-- Hot Pink for vibrancy -->
+      <stop offset="100%" stop-color="#E6E6FA" /> <!-- Lavender for softer contrast -->
     </linearGradient>
   </defs>
   <rect x="0" y="0" width="960" height="540" fill="url(#lavender-pink-gradient)" />
