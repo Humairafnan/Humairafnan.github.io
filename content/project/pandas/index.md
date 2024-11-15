@@ -1,6 +1,6 @@
 ---
 title: Mental Health and Resilience Survey
-date: 2023-10-26
+date: 2024-10-26
 external_link: https://github.com/Humairafnan/Lab_7/tree/main/CSE_312_survey
 tags:
   - Mental Health
