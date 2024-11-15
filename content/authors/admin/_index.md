@@ -132,7 +132,7 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-read
-      - name: Cats
+      - name: Cat
         description: ''
         percent: 100
         icon: cat
