@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Humaira Afnan
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Humaira
+last_name: Afnan
 
 # Status emoji
 status:
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,31 +31,31 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:humairaafu716@gmail.com'
     label: E-mail Me
-  - icon: brands/x
+  /*- icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/*/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
+    url: https://github.com/Humairafnan
+  - /*icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/*/
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cyber security
+  - Web developmentl
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSC. honrs' in cse
+    institution: Jahangirnagra University
+    date_start: 2022-03-09
+    /*date_end: 2020-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -105,20 +105,20 @@ work:
       Responsibilities include:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit*/
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: C++
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Web-development
         description: ''
-        percent: 100
+        percent: 40
         icon: chart-bar
       - name: SQL
         description: ''
@@ -128,10 +128,10 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Reading
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: person-simple-read
       - name: Cats
         description: ''
         percent: 100
@@ -143,10 +143,10 @@ skills:
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
+    percent: 60
+  - name: Bangla
     percent: 75
-  - name: Portuguese
+ /* - name: Portuguese
     percent: 25
 
 # Awards.
@@ -180,7 +180,7 @@ awards:
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
-
+*/
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Humaira Afnan, a third-year Honours student at Jahangirnagar University. With a passion for web design, I am dedicated to transforming visions and ideas into meaningful, useful products. My attention to detail and understanding of product evolution enable me to prioritize tasks effectively, iterate swiftly, and deliver results efficiently.
