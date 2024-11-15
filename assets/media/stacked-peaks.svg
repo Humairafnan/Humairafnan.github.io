@@ -1,10 +1,11 @@
 <svg id="visual" viewBox="0 0 960 540" width="960" height="540" xmlns="http://www.w3.org/2000/svg" version="1.1">
   <defs>
-    <linearGradient id="royal-blue-gold-gradient" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#002366" /> <!-- Royal Blue -->
-      <stop offset="50%" stop-color="#FFD700" /> <!-- Gold -->
-      <stop offset="100%" stop-color="#1E90FF" /> <!-- Dodger Blue for vibrancy -->
+    <linearGradient id="custom-gradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#49243E" /> <!-- Darker Shade -->
+      <stop offset="50%" stop-color="#704264" /> <!-- Medium Dark Shade -->
+      <stop offset="85%" stop-color="#BB8493" /> <!-- Lighter Shade -->
+      <stop offset="100%" stop-color="#DBAFA0" /> <!-- Very Light Shade -->
     </linearGradient>
   </defs>
-  <rect x="0" y="0" width="960" height="540" fill="url(#royal-blue-gold-gradient)" />
+  <rect x="0" y="0" width="960" height="540" fill="url(#custom-gradient)" />
 </svg>
