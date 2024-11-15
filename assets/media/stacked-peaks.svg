@@ -1,12 +1,10 @@
 <svg id="visual" viewBox="0 0 960 540" width="960" height="540" xmlns="http://www.w3.org/2000/svg" version="1.1">
   <defs>
-    <linearGradient id="green-gold-gradient" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#013220" /> <!-- Deep green -->
-      <stop offset="50%" stop-color="#4CAF50" /> <!-- Bright green -->
-      <stop offset="100%" stop-color="#DAA520" /> <!-- Gold -->
+    <linearGradient id="lavender-pink-gradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#E6E6FA" /> <!-- Lavender -->
+      <stop offset="50%" stop-color="#FFC0CB" /> <!-- Pink -->
+      <stop offset="100%" stop-color="#FFFFFF" /> <!-- White -->
     </linearGradient>
   </defs>
-  <rect x="0" y="0" width="960" height="540" fill="url(#green-gold-gradient)" />
-  <circle cx="480" cy="270" r="150" fill="#013220" fill-opacity="0.8" />
-  <circle cx="480" cy="270" r="100" fill="#DAA520" fill-opacity="0.8" />
+  <rect x="0" y="0" width="960" height="540" fill="url(#lavender-pink-gradient)" />
 </svg>
