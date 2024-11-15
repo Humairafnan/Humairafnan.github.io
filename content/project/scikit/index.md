@@ -1,13 +1,13 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+title: Serene Style Online Boutique
+date: 2023-11-15
+external_link: https://github.com/Humairafnan/product_landing
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Fashion
+  - E-commerce
+  - Boutique
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+An elegant online boutique offering stylish, high-quality clothing with fast shipping and personalized recommendations.
 
 <!--more-->
