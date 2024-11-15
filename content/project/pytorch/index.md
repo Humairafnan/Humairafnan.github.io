@@ -1,13 +1,13 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: Mental Health and Resilience Survey
+date: 2024-10-26
+external_link: https://github.com/Humairafnan/Lab_7/tree/main/CSE_312_survey
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Mental Health
+  - Survey
+  - Self-Assessment
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+A mental health self-assessment tool to evaluate emotional well-being and identify potential concerns.
 
 <!--more-->
