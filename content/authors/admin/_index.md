@@ -33,7 +33,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:humairaafu716@gmail.com'
     label: E-mail Me
-  /*- icon: brands/x
+  <!--- icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/*/
@@ -44,7 +44,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/*/
+    url: https://orcid.org/-->
 
 interests:
   - Artificial Intelligence
@@ -55,7 +55,7 @@ education:
   - area: BSC. honrs' in cse
     institution: Jahangirnagra University
     date_start: 2022-03-09
-    /*date_end: 2020-12-31
+    <!--date_end: 2020-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -105,7 +105,9 @@ work:
       Responsibilities include:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit*/
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      
+-->
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -146,7 +148,7 @@ languages:
     percent: 60
   - name: Bangla
     percent: 75
- /* - name: Portuguese
+ <!-- - name: Portuguese
     percent: 25
 
 # Awards.
@@ -180,7 +182,7 @@ awards:
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
-*/
+-->
 ## About Me
 
 I am Humaira Afnan, a third-year Honours student at Jahangirnagar University. With a passion for web design, I am dedicated to transforming visions and ideas into meaningful, useful products. My attention to detail and understanding of product evolution enable me to prioritize tasks effectively, iterate swiftly, and deliver results efficiently.
