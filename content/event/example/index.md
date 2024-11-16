@@ -1,24 +1,25 @@
+
 ---
-title: Example Talk
+title: Talk with Web Development platform
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: Learning Web Development
+event_url: https://www.w3schools.com/html/default.asp
 
-location: Hugo Blox Builder HQ
+location: Jahangirnagar University
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  # street: 450 Serra Mall
+  city: Savar
+  region: Dhaka
+  postcode: '1342'
+  country: Bangladesh
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: W3Schools is a school for web developers, covering all the aspects of web development HTML Tutorial. CSS Tutorial. JavaScript Tutorial.
+abstract: 'W3Schools is an online learning platform dedicated to providing educational resources in web development and programming. Established in 1998, it has become one of the most popular sources for learning web technologies such as HTML, CSS, JavaScript, SQL, PHP, Python, and many others. W3Schools offers a structured, user-friendly environment with tutorials, references, interactive examples, and exercises to help learners of all levels build and strengthen their coding skills.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-11-19T10:00:00Z'
+date_end: ''
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -41,28 +42,28 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
+url_code: 'https://www.w3schools.com/html/default.asp'
 url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+# url_slides: 'https://slideshare.net'
+url_video: 'https://www.youtube.com/@w3schools'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+# slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - example
+# projects:
+  # - example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
 
@@ -72,4 +73,4 @@ Slides can be added in a few ways:
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
 
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. -->
