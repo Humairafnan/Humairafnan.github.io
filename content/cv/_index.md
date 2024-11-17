@@ -88,9 +88,8 @@ Dedicated and skilled front-end developer with a strong foundation in web techno
 
 
 ---
-## Contact Me
-<!-- # Ismail Hossain
-**Front-End Developer**   -->
+## Communication
+
 Email: humairaafu716@gmail.com
 
 Phone: 01318896268
