@@ -1,4 +1,4 @@
-<!--
+
 ---
 title: 🎉 Easily create your own simple yet highly customizable blog
 summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
@@ -85,4 +85,3 @@ Hugo Blox and its templates come with **automatic day (light) and night (dark) m
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
 Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license.
--->

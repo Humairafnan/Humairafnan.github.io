@@ -1,4 +1,4 @@
-<!--
+
 ---
 title: 👩🏼‍🏫 Teach academic courses
 summary: Embed videos, podcasts, code, LaTeX math, and even test students!
@@ -136,4 +136,3 @@ renders as
 {{< icon name="python" >}} Python
 
 ## Did you find this page helpful? Consider sharing it 🙌
--->

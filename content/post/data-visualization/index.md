@@ -1,4 +1,4 @@
-<!--
+
 ---
 title: 📈 Communicate your results effectively with the best data visualizations
 summary: Use popular tools such as Plotly, Mermaid, and data frames.
@@ -156,4 +156,3 @@ renders as
 {{< table path="results.csv" header="true" caption="Table 1: My results" >}}
 
 ## Did you find this page helpful? Consider sharing it 🙌
--->
