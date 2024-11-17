@@ -1,75 +1,36 @@
 ---
-# Display name
 title: Humaira Afnan
-
-# Name pronunciation (optional)
 name_pronunciation: ''
-
-# Full name (for SEO)
 first_name: Humaira
 last_name: Afnan
-
-# Status emoji
 status:
   icon: ☕️
-
-# Is this the primary user of the site?
 superuser: true
-
-# Highlight the author in author lists? (true/false)
 highlight_name: true
-
-# Role/position/tagline
 role: Student
-
-# Organizations/Affiliations to display in Biography blox
-#organizations:
-#  - name: OpenAI
-#    url: https://openai.com/
-
-# Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
     url: 'mailto:humairaafu716@gmail.com'
     label: E-mail Me
-  # - icon: brands/x
-  #   url: https://twitter.com/GetResearchDev
-  # - icon: brands/instagram
-  #   url: https://www.instagram.com/*
   - icon: brands/github
     url: https://github.com/Humairafnan
-  # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/
-  # - icon: academicons/google-scholar
-  #   url: https://scholar.google.com/
-  # - icon: academicons/orcid
-  #   url: https://orcid.org/
-
 interests:
   - Artificial Intelligence
-  - Cyber security
-  - Web development
-
+  - Cybersecurity
+  - Web Development
 education:
-  - area: BSC. honrs' in cse
-    institution: Jahangirnagra University
+  - area: BSc (Honors) in Computer Science and Engineering
+    institution: Jahangirnagar University
     date_start: 2022-03-09
-    # date_end: 2020-12-31
-    # summary: |
-    #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    # button:
-    #   text: 'Read Thesis'
-    #   url: 'https://example.com'
-   - area: Higher Secondary School Certificate (HSC)
-     institution: Chattogram College
-     date_start: 2018-06-01
-     date_end: 2020-04-15
-     summary: |
+  - area: Higher Secondary School Certificate (HSC)
+    institution: Chattogram College
+    date_start: 2018-06-01
+    date_end: 2020-04-15
+    summary: |
       GPA: 5.00/5.00
-
+      
       Courses included:
-      - physics
+      - Physics
       - Chemistry
       - Mathematics
       - Biology
@@ -84,7 +45,7 @@ education:
       GPA: 5.00/5.00
       
       Courses included:
-      - physics
+      - Physics
       - Chemistry
       - Mathematics
       - Biology
@@ -94,61 +55,41 @@ education:
       - Bangladesh & World Identity
       - Islam & Moral Education
       - Career Education
-
 skills:
   - name: Technical Skills
     items:
       - name: C++
-        description: ''
-        percent: 80
+        percent: 90
         icon: code-bracket
-      - name: Web-development
-        description: ''
-        percent: 40
+      - name: Web Development
+        percent: 70
         icon: chart-bar
       - name: SQL
-        description: ''
-        percent: 40
+        percent: 60
         icon: circle-stack
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
     items:
       - name: Reading
-        description: ''
         percent: 60
         icon: person-simple-read
-      - name: Cat
-        description: ''
+      - name: Cats
         percent: 100
         icon: cat
       - name: Photography
-        description: ''
         percent: 80
         icon: camera
-
 languages:
   - name: English
-    percent: 60
+    percent: 80
   - name: Bangla
-    percent: 75
-  # - name: Portuguese
-  #   percent: 25
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+    percent: 100
 awards:
   - title: Responsive Web Design
     url: https://www.freecodecamp.org/certification/Humaira_Afnan/responsive-web-design
     date: '2024-10-24'
-    awarder: freecodecamp
-    icon:  Icons8
-    summary: |
-      freeCodeCamp (also referred to as Free Code Camp) is a non-profit educational organization that consists of an interactive learning web platform, an online community forum, chat rooms, online publications and local organizations that intend to make learning software development accessible to anyone.
-
+    awarder: freeCodeCamp
+about: |
+  I am Humaira Afnan, a third-year Honours student at Jahangirnagar University.  
+  With a passion for web design, I am dedicated to transforming ideas into meaningful and useful products.  
+  My attention to detail and understanding of product evolution enable me to prioritize tasks effectively, iterate swiftly, and deliver results efficiently.
 ---
-
-## About Me
-
-I am Humaira Afnan, a third-year Honours student at Jahangirnagar University. With a passion for web design, I am dedicated to transforming visions and ideas into meaningful, useful products. My attention to detail and understanding of product evolution enable me to prioritize tasks effectively, iterate swiftly, and deliver results efficiently.
