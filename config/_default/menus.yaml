@@ -24,5 +24,5 @@ main:
     url: projects/
     weight: 30
   - name: Contact
-    url: Contact/
+    url: communication/
     weight: 40

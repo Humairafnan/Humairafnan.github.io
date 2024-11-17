@@ -88,7 +88,7 @@ Dedicated and skilled front-end developer with a strong foundation in web techno
 
 
 ---
-## Communication
+## Contact Me
 
 Email: humairaafu716@gmail.com
 
