@@ -2,12 +2,12 @@
 
 Feel free to reach out to me via any of the following contact methods:
 
-- **Phone**: 01797739109, 01568226500
-- **Email**: ismailraj127413@gmail.com
+- **Phone**: 01318896268
+- **Email**: humairaafu716@gmail.com
 
-- **GitHub**: https://github.com/ismai402
+- **GitHub**: https://github.com/Humairafnan
 
-- **LinkedIn**: https://www.linkedin.com/in/ismail-hossain-a613ab218/recent-activity/all/
+<!--- **LinkedIn**: https://www.linkedin.com/in/ismail-hossain-a613ab218/recent-activity/all/-->
 
 <!-- - **Twitter**: [Your Twitter Handle] -->
 <!-- - **Portfolio**: [Link to Your Portfolio Website] -->
