@@ -23,9 +23,9 @@ highlight_name: true
 role: Student
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: OpenAI
-    url: https://openai.com/
+#organizations:
+#  - name: OpenAI
+#    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -61,26 +61,39 @@ education:
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  # - area: MEng Artificial Intelligence
-  #   institution: Massachusetts Institute of Technology
-  #   date_start: 2016-01-01
-  #   date_end: 2020-12-31
-  #   summary: |
-  #     GPA: 3.8/4.0
-  #     Courses included:
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  # - area: BSc Artificial Intelligence
-  #   institution: Massachusetts Institute of Technology
-  #   date_start: 2016-01-01
-  #   date_end: 2020-12-31
-  #   summary: |
-  #     GPA: 3.4/4.0
-  #     Courses included:
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+   - area: Higher Secondary School Certificate (HSC)
+     institution: Chattogram College
+     date_start: 2018-06-01
+     date_end: 2020-04-15
+     summary: |
+      GPA: 5.00/5.00
+
+      Courses included:
+      - physics
+      - Chemistry
+      - Mathematics
+      - Biology
+      - Information & Communication Technology (ICT)
+      - Bangla
+      - English
+  - area: Secondary School Certificate (SSC)
+    institution: Dr. Khastagir Govt. Girls High School
+    date_start: 2012-01-01
+    date_end: 2018-04-15
+    summary: |
+      GPA: 5.00/5.00
+      
+      Courses included:
+      - physics
+      - Chemistry
+      - Mathematics
+      - Biology
+      - Information & Communication Technology (ICT)
+      - Bangla
+      - English
+      - Bangladesh & World Identity
+      - Islam & Moral Education
+      - Career Education
 
 skills:
   - name: Technical Skills
@@ -121,6 +134,19 @@ languages:
     percent: 75
   # - name: Portuguese
   #   percent: 25
+# Awards.
+#   Add/remove as many awards below as you like.
+#   Only `title`, `awarder`, and `date` are required.
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+awards:
+  - title: Responsive Web Design
+    url: https://www.freecodecamp.org/certification/Humaira_Afnan/responsive-web-design
+    date: '2024-10-24'
+    awarder: freecodecamp
+    icon:  Icons8
+    summary: |
+      freeCodeCamp (also referred to as Free Code Camp) is a non-profit educational organization that consists of an interactive learning web platform, an online community forum, chat rooms, online publications and local organizations that intend to make learning software development accessible to anyone.
+
 ---
 
 ## About Me
