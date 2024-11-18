@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: /uploads/resume.pdf  # Ensure that this path is correct, and the resume.pdf file is in the static/uploads folder
     design:
       css_class: dark
       background:
@@ -30,39 +30,16 @@ sections:
           size: cover
           position: center
           parallax: false
+
   - block: markdown
     content:
       title: '📚 My Goal'
       subtitle: ''
-     text: |-
+      text: |-
         I aspire to excel as a software engineer, focusing on artificial intelligence, system optimization, and cutting-edge technologies. My ambition is to design innovative and efficient solutions that tackle complex real-world challenges, improving the quality of life and driving technological advancement. I am committed to lifelong learning, staying at the forefront of emerging trends, and leveraging my skills in programming, problem-solving, and web development to make meaningful contributions. By engaging in collaborative projects, internships, and industry-leading initiatives, I aim to grow both personally and professionally, creating a lasting impact in the field of technology.
-
-#        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
         
         Please reach out to collaborate 😃
-      design:
-      columns: '1'
-#  - block: collection
-#    id: papers
-#    content:
-#      title: Featured Publications
-#      filters:
-#        folders:
-#          - publication
-#        featured_only: true
-#    design:
-#      view: article-grid
-#      columns: 2
-#  - block: collection
-#    content:
-#      title: Recent Publications
-#      text: ""
-#      filters:
-#        folders:
-#          - publication
-#        exclude_featured: false
-#    design:
-#      view: citation
+
   - block: collection
     id: talks
     content:
@@ -73,35 +50,7 @@ sections:
     design:
       view: article-grid
       columns: 1
-#  - block: collection
-#    id: news
-#    content:
-#      title: Recent News
-#      subtitle: ''
-#      text: ''
-      # Page type to display. E.g. post, talk, publication...
-#      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-#      count: 5
-      # Filter on criteria
-#      filters:
-#        author: ""
-#        category: ""
-#        tag: ""
-#        exclude_featured: false
-#        exclude_future: false
-#        exclude_past: false
-#        publication_type: ""
-      # Choose how many pages you would like to offset by
-#      offset: 0
-#      # Page order: descending (desc) or ascending (asc) date.
-#      order: desc
-#    design:
-      # Choose a layout view
-#      view: date-title-summary
-      # Reduce spacing
-#      spacing:
-#        padding: [0, 0, 0, 0]
+
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
