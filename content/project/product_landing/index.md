@@ -1,6 +1,6 @@
 ---
 title: Serene Style Online Boutique
-date: 2023-11-15
+date: 2024-11-15
 external_link: https://github.com/Humairafnan/product_landing
 tags:
   - Fashion
