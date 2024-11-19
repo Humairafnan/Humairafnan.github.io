@@ -91,7 +91,7 @@ awards:
 
 ---
 
-## About Me |
+## About Me 
   I am Humaira Afnan, a third-year Honours student at Jahangirnagar University.  
   With a passion for web design, I am dedicated to transforming ideas into meaningful and useful products.  
   My attention to detail and understanding of product evolution enable me to prioritize tasks effectively, iterate swiftly, and deliver results efficiently.
